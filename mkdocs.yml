@@ -1,0 +1,13 @@
+site_name: Giwon's Studying
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+
+nav:
+  - 홈:
+      - 집: index.md
+  - DB:
+      - 데이터: 데이터.md
